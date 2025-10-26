@@ -19,6 +19,12 @@ switch (day)
     case 5:
         Console.WriteLine("Thursday");
         break;
+    case 6:
+        Console.WriteLine("Friday");
+        break;
+    case 7:
+        Console.WriteLine("Saturday");
+        break;
 
     default:
         Console.WriteLine("Input is invalid");
